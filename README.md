@@ -1,4 +1,4 @@
-*ESP32 Buck Converter PID Control*
+*ESP32 Buck Converter PID Control*:
 A closed-loop PID controller for a DC-DC Buck Converter implemented on the ESP32 using the MCPWM peripheral and ADC voltage feedback.
 Hardware Components: The following components were used to build and test the buck converter system:
  .ESP32 Development Board – main microcontroller for PWM generation and control algorithm
