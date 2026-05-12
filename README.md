@@ -2,7 +2,7 @@
 A closed-loop PID controller for a DC-DC Buck Converter implemented on the ESP32 using the MCPWM peripheral and ADC voltage feedback.
 Hardware Components: The following components were used to build and test the buck converter system:
  .ESP32 Development Board – main microcontroller for PWM generation and control algorithm
- .IR2113 MOSFET Driver – high and low side gate driver for switching MOSFETs for synchronous rectification purpse
+ .IR2113 MOSFET Driver – high and low side gate driver for switching MOSFETs for synchronous rectification
  .N‑Channel MOSFETs – IRF3205
  .Inductor (Power Inductor) – energy storage element of the converter
  .Output Capacitor – smoothing the output voltage ripple
